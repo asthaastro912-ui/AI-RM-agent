@@ -29,7 +29,7 @@ uvicorn api.main:app --reload
 
 ## Run Agent
 
-python -m agent.phase7_agent
+python -m agent.phase9_agent
 
 ## Run Streamlit
 
