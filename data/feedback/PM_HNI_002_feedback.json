@@ -1,0 +1,47 @@
+{
+  "client_id": "PM_HNI_002",
+  "ratings": [
+    {
+      "timestamp": "2026-05-30T11:50:57.719299",
+      "question": "Show me my complete portfolio with current P&L",
+      "answer": "Here is your complete portfolio with the current Profit/Loss (P&L):\n\n1. **HDFC Bank Ltd (HDFCBANK)**\n   - Quantity: 280\n   - Average Buy Price: \u20b91590.0\n   - Current Price: \u20b91780.0\n   - Invested Value: \u20b9445200.0\n   - Current Value: \u20b9498400.0\n   - Unrealised P&L: \u20b953200.0\n   - Unrealised P&L %: 11.95%",
+      "rating": 1
+    },
+    {
+      "timestamp": "2026-05-30T11:51:54.725798",
+      "question": "Which of my stocks is performing the worst right now?",
+      "answer": "Based on the current performance of your holdings, the stock that is performing the worst right now is **Hindustan Unilever Ltd (HINDUNILVR)**. \n\n- **Current Price**: \u20b92285.0\n- **Average Buy Price**: \u20b92340.0\n- **Quantity**: 150 shares\n- **Invested Value**: \u20b9351,000.0\n- **Current Value**: \u20b9342,750.0\n",
+      "rating": 1
+    },
+    {
+      "timestamp": "2026-05-30T12:20:35.657956",
+      "question": "Which of my stocks is performing the worst right now?",
+      "answer": "The stock in your portfolio that is currently performing the worst is **Hindustan Unilever Ltd (HINDUNILVR)**. It has an unrealised loss of \u20b98,250.00, which represents a loss of -2.35% based on your average buy price. \n\nIf you would like more details or have any other questions, feel free to ask!",
+      "rating": 1
+    },
+    {
+      "timestamp": "2026-05-30T12:22:31.612557",
+      "question": "How much of my portfolio is in the banking sector?",
+      "answer": "In your portfolio, the total percentage allocated to the banking sector is approximately **16.72%**. This allocation includes holdings in **HDFC Bank Ltd (HDFCBANK)** and **Bajaj Finserv Ltd (BAJAJFINSV)**, which contribute to the overall exposure to the banking sector.\n\nIf you have more questions o",
+      "rating": 1
+    },
+    {
+      "timestamp": "2026-05-30T12:24:40.704259",
+      "question": "I want to buy ADANIPOWER \u2014 is there anything I should know about it?",
+      "answer": "Adani Power (ADANIPOWER) is currently under Graded Surveillance Measure (GSM), which restricts trading circuits for the stock. Additionally, the stock is currently not tradeable on the exchange as it is suspended.\n\nDue to the GSM flag and suspension status, it is not advisable to invest in Adani Pow",
+      "rating": 3
+    },
+    {
+      "timestamp": "2026-05-30T12:25:09.005148",
+      "question": "What is TITAN trading at right now and how far is it from its 52-week high?",
+      "answer": "Titan Company Ltd (TITAN) is currently trading at \u20b94074.90. It is approximately 11.51% below its 52-week high of \u20b94605.00.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+      "rating": 2
+    },
+    {
+      "timestamp": "2026-05-30T12:25:38.238038",
+      "question": "Is ZOMATO in an uptrend or downtrend currently?",
+      "answer": "Zomato (ZOMATO) is currently not under any surveillance flags, and there are no exchange restrictions on the stock. It is clear for trading without any limitations.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+      "rating": 1
+    }
+  ]
+}

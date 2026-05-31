@@ -1,0 +1,60 @@
+Symbol,company_name,sector,cap_type,ASM,GSM,Tradeable
+INFY,Infosys Ltd,Information Technology,Large Cap,N,N,Y
+HDFCBANK,HDFC Bank Ltd,Banking & Finance,Large Cap,N,N,Y
+RELIANCE,Reliance Industries Ltd,Energy & Petrochemicals,Large Cap,N,N,Y
+TATAMOTORS,Tata Motors Ltd,Automobile,Large Cap,N,N,Y
+TCS,Tata Consultancy Services Ltd,Information Technology,Large Cap,N,N,Y
+ICICIBANK,ICICI Bank Ltd,Banking & Finance,Large Cap,N,N,Y
+SUNPHARMA,Sun Pharmaceutical Industries Ltd,Pharmaceuticals,Large Cap,N,N,Y
+TITAN,Titan Company Ltd,Consumer Goods,Large Cap,N,N,Y
+COALINDIA,Coal India Ltd,Metals & Mining,Large Cap,N,N,Y
+WIPRO,Wipro Ltd,Information Technology,Large Cap,N,N,Y
+BAJFINANCE,Bajaj Finance Ltd,Banking & Finance,Large Cap,N,N,Y
+ITC,ITC Ltd,FMCG,Large Cap,N,N,Y
+HINDUNILVR,Hindustan Unilever Ltd,FMCG,Large Cap,N,N,Y
+POWERGRID,Power Grid Corporation of India Ltd,Utilities,Large Cap,N,N,Y
+NESTLEIND,Nestle India Ltd,FMCG,Large Cap,N,N,Y
+NTPC,NTPC Ltd,Utilities,Large Cap,N,N,Y
+ZOMATO,Zomato Ltd,Consumer Internet,Mid Cap,N,N,Y
+PERSISTENT,Persistent Systems Ltd,Information Technology,Mid Cap,N,N,Y
+TATAPOWER,Tata Power Company Ltd,Utilities,Mid Cap,N,N,Y
+KPITTECH,KPIT Technologies Ltd,Information Technology,Mid Cap,N,N,Y
+IRCTC,Indian Railway Catering and Tourism Corporation Ltd,Travel & Tourism,Mid Cap,N,N,Y
+TRENT,Trent Ltd,Retail,Mid Cap,N,N,Y
+M&M,Mahindra & Mahindra Ltd,Automobile,Large Cap,N,N,Y
+HCLTECH,HCL Technologies Ltd,Information Technology,Large Cap,N,N,Y
+ASIANPAINT,Asian Paints Ltd,Consumer Goods,Large Cap,N,N,Y
+DABUR,Dabur India Ltd,FMCG,Mid Cap,N,N,Y
+BHARTIARTL,Bharti Airtel Ltd,Telecom,Large Cap,N,N,Y
+NYKAA,FSN E-Commerce Ventures Ltd,Consumer Internet,Mid Cap,N,N,Y
+POLICYBZR,PB Fintech Ltd,Consumer Internet,Mid Cap,N,N,Y
+COFORGE,Coforge Ltd,Information Technology,Mid Cap,N,N,Y
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,Large Cap,N,N,Y
+AXISBANK,Axis Bank Ltd,Banking & Finance,Large Cap,N,N,Y
+SBIN,State Bank of India,Banking & Finance,Large Cap,N,N,Y
+MARUTI,Maruti Suzuki India Ltd,Automobile,Large Cap,N,N,Y
+ULTRACEMCO,UltraTech Cement Ltd,Cement,Large Cap,N,N,Y
+ONGC,Oil and Natural Gas Corporation Ltd,Energy & Petrochemicals,Large Cap,N,N,Y
+TECHM,Tech Mahindra Ltd,Information Technology,Large Cap,N,N,Y
+ADANIENT,Adani Enterprises Ltd,Conglomerate,Large Cap,N,N,Y
+ADANIPORTS,Adani Ports and SEZ Ltd,Infrastructure,Large Cap,N,N,Y
+JSWSTEEL,JSW Steel Ltd,Metals & Mining,Large Cap,N,N,Y
+TATASTEEL,Tata Steel Ltd,Metals & Mining,Large Cap,N,N,Y
+HINDALCO,Hindalco Industries Ltd,Metals & Mining,Large Cap,N,N,Y
+CIPLA,Cipla Ltd,Pharmaceuticals,Large Cap,N,N,Y
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,Large Cap,N,N,Y
+BAJAJFINSV,Bajaj Finserv Ltd,Banking & Finance,Large Cap,N,N,Y
+INDUSINDBK,IndusInd Bank Ltd,Banking & Finance,Large Cap,N,N,Y
+KOTAKBANK,Kotak Mahindra Bank Ltd,Banking & Finance,Large Cap,N,N,Y
+LT,Larsen and Toubro Ltd,Infrastructure,Large Cap,N,N,Y
+EICHERMOT,Eicher Motors Ltd,Automobile,Large Cap,N,N,Y
+HEROMOTOCO,Hero MotoCorp Ltd,Automobile,Large Cap,N,N,Y
+SUZLON,Suzlon Energy Ltd,Utilities,Mid Cap,Y,N,Y
+YESBANK,Yes Bank Ltd,Banking & Finance,Large Cap,Y,N,Y
+VODAFONE,Vodafone Idea Ltd,Telecom,Large Cap,N,Y,Y
+RPOWER,Reliance Power Ltd,Utilities,Small Cap,Y,Y,Y
+JPPOWER,Jaiprakash Power Ventures Ltd,Utilities,Small Cap,Y,N,Y
+GMRINFRA,GMR Airports Infrastructure Ltd,Infrastructure,Mid Cap,N,N,Y
+IDEA,Vodafone Idea Ltd,Telecom,Large Cap,N,Y,Y
+PCJEWELLER,PC Jeweller Ltd,Consumer Goods,Small Cap,Y,Y,N
+ADANIPOWER,Adani Power Ltd,Utilities,Large Cap,NSE,Y,N,Y,500,High

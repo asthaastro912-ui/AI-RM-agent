@@ -1,0 +1,81 @@
+[
+  {
+    "symbol": "INFY",
+    "company": "Infosys",
+    "sector": "IT",
+    "rating": "BUY",
+    "target_price": 1850,
+    "current_price": 1620,
+    "holding_period": "12 months",
+    "summary": "Infosys continues to benefit from strong enterprise digital transformation demand. Margin stability and large deal wins remain key positives.",
+    "risks": [
+      "Weak global IT spending",
+      "Currency fluctuations",
+      "Delay in client decision making"
+    ]
+  },
+
+  {
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank",
+    "sector": "Banking",
+    "rating": "BUY",
+    "target_price": 2100,
+    "current_price": 1780,
+    "holding_period": "12 months",
+    "summary": "HDFC Bank remains one of the strongest private banks with stable asset quality and strong retail loan growth.",
+    "risks": [
+      "Rising interest rates",
+      "Regulatory tightening",
+      "Pressure on margins"
+    ]
+  },
+
+  {
+    "symbol": "TATAMOTORS",
+    "company": "Tata Motors",
+    "sector": "Auto",
+    "rating": "HOLD",
+    "target_price": 980,
+    "current_price": 910,
+    "holding_period": "6-12 months",
+    "summary": "Tata Motors is seeing strong EV momentum, but global demand uncertainty and JLR performance remain important factors.",
+    "risks": [
+      "Global slowdown",
+      "Commodity cost inflation",
+      "Weak luxury vehicle demand"
+    ]
+  },
+
+  {
+    "symbol": "ITC",
+    "company": "ITC",
+    "sector": "FMCG",
+    "rating": "BUY",
+    "target_price": 540,
+    "current_price": 470,
+    "holding_period": "12 months",
+    "summary": "ITC offers defensive stability with strong cash generation and improving FMCG business performance.",
+    "risks": [
+      "Cigarette taxation changes",
+      "FMCG competition",
+      "Slower rural demand"
+    ]
+  },
+
+  {
+    "symbol": "SUNPHARMA",
+    "company": "Sun Pharma",
+    "sector": "Pharma",
+    "rating": "BUY",
+    "target_price": 1900,
+    "current_price": 1675,
+    "holding_period": "12 months",
+    "summary": "Sun Pharma continues to perform well due to specialty pharma growth and strong domestic formulations business.",
+    "risks": [
+      "USFDA observations",
+      "Pricing pressure in US market",
+      "Regulatory delays"
+    ]
+  }
+]

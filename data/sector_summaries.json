@@ -1,0 +1,76 @@
+[
+  {
+    "sector": "IT",
+    "outlook": "Positive",
+    "summary": "Indian IT companies continue to benefit from AI adoption and cloud migration spending globally.",
+    "drivers": [
+      "AI transformation demand",
+      "Large enterprise tech spending",
+      "Digital consulting growth"
+    ],
+    "risks": [
+      "US recession fears",
+      "Delayed client budgets"
+    ]
+  },
+
+  {
+    "sector": "Banking",
+    "outlook": "Stable",
+    "summary": "Private banks remain fundamentally strong with healthy credit growth and manageable NPAs.",
+    "drivers": [
+      "Retail loan growth",
+      "Stable asset quality",
+      "Digital banking expansion"
+    ],
+    "risks": [
+      "Interest rate volatility",
+      "Regulatory tightening"
+    ]
+  },
+
+  {
+    "sector": "Auto",
+    "outlook": "Mixed",
+    "summary": "Passenger vehicle demand remains healthy, while EV adoption continues to accelerate.",
+    "drivers": [
+      "EV growth",
+      "Festive demand",
+      "Premium vehicle demand"
+    ],
+    "risks": [
+      "High input costs",
+      "Weak export demand"
+    ]
+  },
+
+  {
+    "sector": "Pharma",
+    "outlook": "Positive",
+    "summary": "Domestic pharma demand and specialty drug exports continue to support growth.",
+    "drivers": [
+      "Healthcare spending",
+      "Export growth",
+      "Specialty drugs"
+    ],
+    "risks": [
+      "Regulatory issues",
+      "Pricing pressure"
+    ]
+  },
+
+  {
+    "sector": "FMCG",
+    "outlook": "Stable",
+    "summary": "FMCG remains a defensive sector with stable cash flows and strong brand loyalty.",
+    "drivers": [
+      "Urban consumption",
+      "Brand strength",
+      "Distribution expansion"
+    ],
+    "risks": [
+      "Rural slowdown",
+      "Inflation impact"
+    ]
+  }
+]

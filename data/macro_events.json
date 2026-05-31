@@ -1,0 +1,47 @@
+[
+  {
+    "event": "RBI Policy Meeting",
+    "impact": "Banking and NBFC stocks may remain volatile around policy announcements.",
+    "affected_sectors": [
+      "Banking",
+      "Finance"
+    ]
+  },
+
+  {
+    "event": "US Federal Reserve Rate Decision",
+    "impact": "IT and export-oriented sectors may react to global interest rate expectations.",
+    "affected_sectors": [
+      "IT",
+      "Pharma"
+    ]
+  },
+
+  {
+    "event": "Union Budget",
+    "impact": "Infrastructure, banking, and manufacturing sectors could see sharp movement depending on policy announcements.",
+    "affected_sectors": [
+      "Infrastructure",
+      "Banking",
+      "Manufacturing"
+    ]
+  },
+
+  {
+    "event": "Quarterly Earnings Season",
+    "impact": "High volatility expected in stocks reporting earnings significantly above or below expectations.",
+    "affected_sectors": [
+      "All"
+    ]
+  },
+
+  {
+    "event": "Crude Oil Price Spike",
+    "impact": "Auto, aviation, and paint sectors may face margin pressure due to higher input costs.",
+    "affected_sectors": [
+      "Auto",
+      "Aviation",
+      "Paints"
+    ]
+  }
+]

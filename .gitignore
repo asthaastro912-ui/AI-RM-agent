@@ -1,0 +1,4 @@
+venv/ # never commit this folder
+credentials.json
+.env
+token.json
